@@ -194,7 +194,7 @@ p {
 .prfooter-text {
   padding: 101px;
 }
-
+/* media query */
 @media only screen and (max-width: 688px) {
   .fifa-update {
     display: grid;
@@ -246,6 +246,7 @@ p {
     margin-right: 80px;
   }
 }
+/* media query */
 @media only screen and (min-width: 689px) and (max-width: 992px) {
   .fifa-update {
     display: flex;

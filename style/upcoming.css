@@ -113,7 +113,7 @@ p {
   margin: 20px;
 }
 
-/* promo */
+/* main part */
 .inner___card {
   /* width: 23%; */
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -167,7 +167,7 @@ p {
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 15px;
 }
-/* Footer ---------------
+/* Footer part---------------
    ---------*/
 .site-footer {
   background-color: rgb(105, 103, 103);
