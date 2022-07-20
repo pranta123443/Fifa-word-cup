@@ -8,7 +8,7 @@
 .fifa-update {
   font-family: "Signika", sans-serif;
   background-color: rgb(105, 103, 103);
-  height: 600px;
+  height: 100%;
   color: white;
   display: flex;
   margin: 150px;
@@ -185,6 +185,7 @@ p {
 .footer-icon {
   font-size: 30px;
   text-align: center;
+  display: none;
 }
 
 .fa-brands {
@@ -193,5 +194,110 @@ p {
 .prfooter-text {
   padding: 101px;
 }
-@media {
+
+@media only screen and (max-width: 688px) {
+  .fifa-update {
+    display: grid;
+    grid-template-rows: 50% 50%;
+    height: 600px;
+    color: white;
+
+    margin: 40px;
+    margin-top: 30px;
+  }
+  .fifa-update h1 {
+    font-size: 220%;
+    text-align: center;
+    margin-bottom: 30px;
+    width: 200px;
+    margin-top: -70px;
+  }
+  .fifa-update p {
+    width: 100%;
+    font-size: 10px;
+  }
+
+  .fifa-update img {
+    height: 300px;
+    padding-left: 50px;
+    margin-top: 0px;
+  }
+  .four-flex {
+    display: grid;
+  }
+  .btn-background {
+    background-color: white;
+  }
+  .player____card {
+    grid-template-columns: 1fr;
+  }
+  .footer-text h2 {
+    font-size: 20px;
+  }
+  .footer-text h3 {
+    font-size: 10px;
+  }
+  .footer-container {
+    display: grid;
+    text-align: center;
+  }
+  hr {
+    margin-left: 80px;
+    margin-right: 80px;
+  }
+}
+@media only screen and (min-width: 689px) and (max-width: 992px) {
+  .fifa-update {
+    display: flex;
+    grid-template-rows: 50% 50%;
+    height: 600px;
+    color: white;
+    margin: 30px;
+    margin-top: 30px;
+  }
+  .fifa-update {
+    display: flex;
+    grid-template-rows: 50% 50%;
+    height: 600px;
+    color: white;
+    margin: 30px;
+    margin-top: 30px;
+  }
+  .fifa-update h1 {
+    font-size: 200%;
+    text-align: justify;
+    margin-bottom: 30px;
+    width: 200px;
+    margin-top: 70px;
+  }
+  .fifa-update p {
+    width: 100%;
+    font-size: 15px;
+  }
+  .fifa-update img {
+    height: 500px;
+    padding-left: 50px;
+    margin-top: 100px;
+  }
+  .four-flex {
+    display: grid;
+  }
+  .btn-background {
+    background-color: white;
+    display: flex;
+    margin-left: -40px;
+  }
+  .player____card {
+    grid-template-columns: 1fr 1fr;
+  }
+  .view-all {
+    display: flex;
+    width: 100px;
+    height: 5px;
+    margin: 32px;
+    background-color: white;
+    font-size: 15px;
+    border-radius: 8px;
+    padding-left: 350px;
+  }
 }
