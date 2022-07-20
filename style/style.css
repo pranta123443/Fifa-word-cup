@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* 1st section */
+.fifa-update {
+  font-family: "Signika", sans-serif;
+  background-color: rgb(105, 103, 103);
+  height: 600px;
+  color: white;
+  display: flex;
+  margin: 150px;
+  margin-top: 80px;
+  justify-content: space-around;
+  border-color: aliceblue;
+  border-radius: 30px;
+}
+
+.first-div {
+  margin: 70px;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 65px;
+  width: 650px;
+}
+
+p {
+  font-family: "Nanum Myeongjo", serif;
+  text-align: center;
+  width: 550px;
+  text-align: justify;
+  /* margin-top: -10px; */
+}
+
+/* button */
+.live-watch-btn {
+  height: 50px;
+  font-size: 19px;
+  border-color: red;
+  border-radius: 10px;
+  background-color: brown;
+  color: white;
+  margin-top: 15px;
+}
+
+.btn :hover {
+  width: 200px;
+  height: 50px;
+}
+
+.fa-circle-play {
+  color: black;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.player-alisson img {
+  margin-top: -32px;
+  height: 630px;
+}
+
+.player-alisson img:hover {
+  padding-right: 50px;
+  transition: ease;
+  transition: 1s;
+}
+
+/* ---------main style------
+
+--- -------------- -*/
+
+.main {
+  display: flex;
+}
+
+.four-flex {
+  display: flex;
+  width: 86%;
+  margin: 0 auto;
+  gap: 18px;
+}
+
+.style-btn-div {
+  width: 200px;
+  height: 45px;
+  margin: 32px;
+  background-color: white;
+  font-size: 15px;
+  border-radius: 8px;
+}
+
+.btn-background {
+  width: 330px;
+  height: 320px;
+  background-color: rgb(105, 103, 103);
+  /* margin-left: 150px; */
+  margin-top: 10px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.style-btn-different {
+  background-color: lightcoral;
+}
+
+.news-cart {
+  border: 2px solid rgb(202, 172, 172);
+  padding: 100px;
+  margin: 20px;
+}
+
+/* promo */
+.inner___card {
+  /* width: 23%; */
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 8px;
+}
+
+.inner___card img {
+  width: 100%;
+  object-fit: cover;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.inner___card p {
+  width: 100%;
+  font-weight: 600;
+}
+.card___details {
+  padding: 12px;
+}
+.card___details button {
+  background: transparent;
+  font-weight: 600;
+  padding: 4px 10px 4px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.icon {
+  padding-left: 7px;
+}
+.player____card {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 15px;
+}
+
+/* third section */
+.view-all {
+  display: none;
+}
+
+/* Footer ---------------
+ ---------*/
+.site-footer {
+  background-color: rgb(105, 103, 103);
+  padding: 34px 0px 45px 0px;
+  font-size: 20px;
+  line-height: 30px;
+  color: white;
+  margin-top: 35px;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+}
+
+.site-footer h2 {
+  text-align: center;
+  font-size: 35px;
+}
+
+/*.......... hr tag 
+..............*/
+
+.site-footer h3 {
+  padding-left: 25px;
+}
+
+.footer-icon {
+  font-size: 30px;
+  text-align: center;
+}
+
+.fa-brands {
+  padding-left: 40px;
+}
+.prfooter-text {
+  padding: 101px;
+}
+@media {
+}

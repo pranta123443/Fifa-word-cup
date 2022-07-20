@@ -1,0 +1,131 @@
+<section class="main">
+    <!-- blog part -->
+
+
+    <!-- imagess part 1 -->
+    <div class="blog-box">
+
+
+        <!-- imagess part 2 -->
+
+        <!-- image part 3 -->
+        <div class="div-boder">
+            <div>
+                <img src="images/picture3..JPG" alt="">
+
+            </div>
+            <div>
+                <button>
+                    See More
+                </button>
+                <h3>
+                    Watch: Paraguay vs. Brazil - prediction, team news, lineups
+                </h3>
+                <i class="fa-regular fa-clock"></i>6h<i class="fa-regular fa-message"></i>2k3
+            </div>
+        </div>
+        <!-- image part 4 -->
+        <div class="div-boder">
+            <div>
+                <img src="images/picture4.JPG" alt="">
+
+            </div>
+            <div>
+                <button>
+                    See More
+                </button>
+                <h3>
+
+                    Watch: Neymar fires a World Cup warning as Scolari's side begin to hit their
+                    stride
+                </h3>
+                <i class="fa-regular fa-clock"></i>9h<i class="fa-regular fa-message"></i>13k
+            </div>
+        </div>
+        <!-- image part 5 -->
+        <div class="div-boder">
+            <div>
+                <img src="images/picture5.jpg" alt="">
+
+            </div>
+            <div>
+                <button>
+                    See More
+                </button>
+                <h3>
+                    Watch: Italy have not yet qualified for the 2022 Qatar World Cup and are currently level on
+                    points.
+                </h3>
+                <i class="fa-regular fa-clock"></i>10h<i class="fa-regular fa-message"></i>23k
+            </div>
+        </div>
+        <!-- image part 6 -->
+        <div class="div-boder">
+            <div>
+                <img src="images/picture6.jpg" alt="">
+
+            </div>
+            <div>
+                <button>
+                    See More
+                </button>
+                <h3>
+                    Watch: The centre of attention: Neymar received a standing ovation after another sublime
+                    display.
+                </h3>
+                <i class="fa-regular fa-clock"></i>21h<i class="fa-regular fa-message"></i>3k
+            </div>
+        </div>
+        <!-- image part 7 -->
+        <div class="div-boder">
+            <div>
+                <img src="images/picture7.JPG" alt="">
+
+            </div>
+            <div>
+                <button>
+                    See More
+                </button>
+                <h3>
+                    Watch: They tried to convince me, but in the end I chose Italy, otherwise I would have been
+                    ungrateful,
+                </h3>
+                <i class="fa-regular fa-clock"></i>15h<i class="fa-regular fa-message"></i>10k
+            </div>
+        </div>
+        <!-- image part 8 -->
+        <div class="div-boder">
+            <div>
+                <img src="images/picture8.jpg" alt="">
+
+            </div>
+            <div>
+                <button>
+                    See More
+                </button>
+                <h3>
+                    Watch: Raul Meireles (left) and Miguel Veloso (right) celebrate the opening
+                    goal
+
+
+                </h3>
+                <i class="fa-regular fa-clock"></i>16h<i class="fa-regular fa-message"></i>17k
+            </div>
+        </div>
+        <!-- image part 9 -->
+        <div class="div-boder">
+            <div>
+                <img src="images/picture9.jpg" alt="">
+
+            </div>
+            <div>
+                <button>
+                    See More
+                </button>
+                <h3>
+                    Watch: Close run thing: Nani (right) reacts after missing a chance
+                </h3>
+                <i class="fa-regular fa-clock"></i>924h<i class="fa-regular fa-message"></i>10k
+            </div>
+        </div>
+    </div>
